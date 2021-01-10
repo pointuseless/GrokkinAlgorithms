@@ -1,6 +1,8 @@
 from __future__ import annotations
 from typing import Union
 
+# Задача: найти все разрешения графа для поиска продавца манго и пути к нему в виду последовательности узлов
+# TODO: лиф вообще не нужен, можно обойтись узлом с пустым списком лифов
 
 class SearchMangoSellerResult:
 
